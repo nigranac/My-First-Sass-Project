@@ -114,10 +114,11 @@
 
 #site {
     
-    position:absolute;
+    position:relative;
     left:34vw;
     top:47vh;
     height: auto;
+    width:420px ;
     font-size: 26px;
     background-color:rgb(18, 18, 19);
     color: white;
@@ -126,15 +127,16 @@
 }
 #site2 {
     
-    position:absolute;
+    position:relative;
     left:30vw;
     top:40vh;
     height: auto;
+    width:595px ;
     font-size: 26px;
     background-color:rgb(18, 18, 19);
     color: white;
     letter-spacing: 9px;
     padding: 20px;
-    min-width: 640px;
+    min-width: 500px;
 
 }
